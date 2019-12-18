@@ -1,0 +1,11 @@
+API Names:
+ 
+Task 2: Reporting
+http://localhost:51952/s//GetHotelRatesReport
+http://localhost:51952/s//SendHotelRateReportAuto
+
+Task 3: Web Service / API
+http://localhost:51952/s//GetHotelRatesByIdAndDate?id=1&&date
+
+Task 1: Web Extraction
+http://localhost:51952/s//ReadHtmlContent
