@@ -1,0 +1,1986 @@
+{
+  "hotel": {
+  	"hotelID": 7294,
+    "classification": 5, 
+    "name": "Kempinski Bristol Berlin", 
+    "reviewscore": 8.3
+  }, 
+  "hotelRates": [
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 116.1, 
+        "numericInteger": 11610
+      }, 
+      "rateDescription": "Unsere Classic Zimmer bieten Ihnen allen Komfort, den Sie von einem 5-Sterne-Hotel erwarten. Helle und freundliche Farben sorgen f\u00fcr ein angenehmes Ambiente, damit Sie Ihren Aufenthalt im Herzen Berlins voll und ganz genie\u00dfen k\u00f6nnen. 20m\u00b2. Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsene oder 1 Erwachsener und 1 Kind.      ", 
+      "rateID": "-739857498", 
+      "rateName": "Classic Zimmer - Fr\u00fchbucher Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 129, 
+        "numericInteger": 12900
+      }, 
+      "rateDescription": "Unsere Classic Zimmer bieten Ihnen allen Komfort, den Sie von einem 5-Sterne-Hotel erwarten. Helle und freundliche Farben sorgen f\u00fcr ein angenehmes Ambiente, damit Sie Ihren Aufenthalt im Herzen Berlins voll und ganz genie\u00dfen k\u00f6nnen. 20m\u00b2. Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsene oder 1 Erwachsener und 1 Kind.      ", 
+      "rateID": "-740789668", 
+      "rateName": "Classic Zimmer - Beste Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 173, 
+        "numericInteger": 17300
+      }, 
+      "rateDescription": "Unsere Classic Zimmer bieten Ihnen allen Komfort, den Sie von einem 5-Sterne-Hotel erwarten. Helle und freundliche Farben sorgen f\u00fcr ein angenehmes Ambiente, damit Sie Ihren Aufenthalt im Herzen Berlins voll und ganz genie\u00dfen k\u00f6nnen. 20m\u00b2. Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsene oder 1 Erwachsener und 1 Kind.      ", 
+      "rateID": "1965705881", 
+      "rateName": "Classic Zimmer - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 134.1, 
+        "numericInteger": 13410
+      }, 
+      "rateDescription": "Unsere klassisch-eleganten und gro\u00dfz\u00fcgig ausgestatteten Superior Zimmer mit hellen Marmorb\u00e4dern vermitteln Ihnen ein behagliches Ambiente. 30m\u00b2. King-Size-Bett, Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsenen und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "1812299463", 
+      "rateName": "Superior Zimmer - Fr\u00fchbucher Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 149, 
+        "numericInteger": 14900
+      }, 
+      "rateDescription": "Unsere klassisch-eleganten und gro\u00dfz\u00fcgig ausgestatteten Superior Zimmer mit hellen Marmorb\u00e4dern vermitteln Ihnen ein behagliches Ambiente. 30m\u00b2. King-Size-Bett, Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsenen und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "1811367293", 
+      "rateName": "Superior Zimmer - Beste Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 193, 
+        "numericInteger": 19300
+      }, 
+      "rateDescription": "Unsere klassisch-eleganten und gro\u00dfz\u00fcgig ausgestatteten Superior Zimmer mit hellen Marmorb\u00e4dern vermitteln Ihnen ein behagliches Ambiente. 30m\u00b2. King-Size-Bett, Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsenen und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "1937076730", 
+      "rateName": "Superior Zimmer - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 152.1, 
+        "numericInteger": 15210
+      }, 
+      "rateDescription": "Die komplett neugestalteten Deluxe Zimmer pr\u00e4sentieren sich als ein gelungenes Zusammenspiel aus zeitlos elegantem Interieur und raffinierten technischen Details. Kostbare Teppichb\u00f6den in Axminter Qualit\u00e4t, wertvolle Mahagoni-M\u00f6bel und weiche Lederbez\u00fcge verbreiten das harmonische Ambiente eines klassischen Grand Hotels. 30m\u00b2. Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene.      ", 
+      "rateID": "-130914929", 
+      "rateName": "Deluxe Zimmer - Fr\u00fchbucher Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 169, 
+        "numericInteger": 16900
+      }, 
+      "rateDescription": "Die komplett neugestalteten Deluxe Zimmer pr\u00e4sentieren sich als ein gelungenes Zusammenspiel aus zeitlos elegantem Interieur und raffinierten technischen Details. Kostbare Teppichb\u00f6den in Axminter Qualit\u00e4t, wertvolle Mahagoni-M\u00f6bel und weiche Lederbez\u00fcge verbreiten das harmonische Ambiente eines klassischen Grand Hotels. 30m\u00b2. Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene.      ", 
+      "rateID": "-131847099", 
+      "rateName": "Deluxe Zimmer - Beste Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 213, 
+        "numericInteger": 21300
+      }, 
+      "rateDescription": "Die komplett neugestalteten Deluxe Zimmer pr\u00e4sentieren sich als ein gelungenes Zusammenspiel aus zeitlos elegantem Interieur und raffinierten technischen Details. Kostbare Teppichb\u00f6den in Axminter Qualit\u00e4t, wertvolle Mahagoni-M\u00f6bel und weiche Lederbez\u00fcge verbreiten das harmonische Ambiente eines klassischen Grand Hotels. 30m\u00b2. Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene.      ", 
+      "rateID": "1908239042", 
+      "rateName": "Deluxe Zimmer - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 170.1, 
+        "numericInteger": 17010
+      }, 
+      "rateDescription": "Unsere individuell gestalteten Junior Suiten spiegeln das traditionelle Flair eines klassischen Grand Hotels wider. Neben einer separaten Sitzecke bieten sie auch teilweise begehbare Kleiderschr\u00e4nke, gro\u00dfz\u00fcgige B\u00e4der sowie einen exklusiven Blick \u00fcber den legend\u00e4ren Kurf\u00fcrstendamm. 45m\u00b2. Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "-1540879080", 
+      "rateName": "Junior Suite - Fr\u00fchbucher Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 189, 
+        "numericInteger": 18900
+      }, 
+      "rateDescription": "Unsere individuell gestalteten Junior Suiten spiegeln das traditionelle Flair eines klassischen Grand Hotels wider. Neben einer separaten Sitzecke bieten sie auch teilweise begehbare Kleiderschr\u00e4nke, gro\u00dfz\u00fcgige B\u00e4der sowie einen exklusiven Blick \u00fcber den legend\u00e4ren Kurf\u00fcrstendamm. 45m\u00b2. Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "-1541811250", 
+      "rateName": "Junior Suite - Beste Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 233, 
+        "numericInteger": 23300
+      }, 
+      "rateDescription": "Unsere individuell gestalteten Junior Suiten spiegeln das traditionelle Flair eines klassischen Grand Hotels wider. Neben einer separaten Sitzecke bieten sie auch teilweise begehbare Kleiderschr\u00e4nke, gro\u00dfz\u00fcgige B\u00e4der sowie einen exklusiven Blick \u00fcber den legend\u00e4ren Kurf\u00fcrstendamm. 45m\u00b2. Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "1960403083", 
+      "rateName": "Junior Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 197.1, 
+        "numericInteger": 19710
+      }, 
+      "rateDescription": "Unsere sieben individuell gestalteten und eleganten Superior Suiten verf\u00fcgen \u00fcber einen separaten Wohn- und Schlafraum sowie zwei gro\u00dfz\u00fcgige Marmorb\u00e4der. Die Suiten k\u00f6nnen teilweise mit zus\u00e4tzlichen Zimmern kombiniert und erweitert werden. 60m\u00b2. Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "-1373861342", 
+      "rateName": "Superior Suite - Fr\u00fchbucher Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 219, 
+        "numericInteger": 21900
+      }, 
+      "rateDescription": "Unsere sieben individuell gestalteten und eleganten Superior Suiten verf\u00fcgen \u00fcber einen separaten Wohn- und Schlafraum sowie zwei gro\u00dfz\u00fcgige Marmorb\u00e4der. Die Suiten k\u00f6nnen teilweise mit zus\u00e4tzlichen Zimmern kombiniert und erweitert werden. 60m\u00b2. Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "-1374793512", 
+      "rateName": "Superior Suite - Beste Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 263, 
+        "numericInteger": 26300
+      }, 
+      "rateDescription": "Unsere sieben individuell gestalteten und eleganten Superior Suiten verf\u00fcgen \u00fcber einen separaten Wohn- und Schlafraum sowie zwei gro\u00dfz\u00fcgige Marmorb\u00e4der. Die Suiten k\u00f6nnen teilweise mit zus\u00e4tzlichen Zimmern kombiniert und erweitert werden. 60m\u00b2. Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "1996331029", 
+      "rateName": "Superior Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 215.1, 
+        "numericInteger": 21510
+      }, 
+      "rateDescription": "Unsere neugestalteten Deluxe Business Suiten pr\u00e4sentieren sich mit einem separaten Schlafzimmer sowie einem \u00e4u\u00dferst gro\u00dfz\u00fcgig geschnittenen Wohnbereich. Helle Teppichb\u00f6den in edler Axminter-Qualit\u00e4t harmonieren wundervoll mit dunklem Mahagoniholz und brauen Sitzm\u00f6beln. Perfekt f\u00fcr das private B\u00fcro ist der gro\u00dfe Design- Schreibtisch in Vektor-Form mit Leder-Schreibtischstuhl. 45m\u00b2. King-Size-Bett oder Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "1178295619", 
+      "rateName": "Deluxe Business Suite - Fr\u00fchbucher Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 239, 
+        "numericInteger": 23900
+      }, 
+      "rateDescription": "Unsere neugestalteten Deluxe Business Suiten pr\u00e4sentieren sich mit einem separaten Schlafzimmer sowie einem \u00e4u\u00dferst gro\u00dfz\u00fcgig geschnittenen Wohnbereich. Helle Teppichb\u00f6den in edler Axminter-Qualit\u00e4t harmonieren wundervoll mit dunklem Mahagoniholz und brauen Sitzm\u00f6beln. Perfekt f\u00fcr das private B\u00fcro ist der gro\u00dfe Design- Schreibtisch in Vektor-Form mit Leder-Schreibtischstuhl. 45m\u00b2. King-Size-Bett oder Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "1177363449", 
+      "rateName": "Deluxe Business Suite - Beste Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 283, 
+        "numericInteger": 28300
+      }, 
+      "rateDescription": "Unsere neugestalteten Deluxe Business Suiten pr\u00e4sentieren sich mit einem separaten Schlafzimmer sowie einem \u00e4u\u00dferst gro\u00dfz\u00fcgig geschnittenen Wohnbereich. Helle Teppichb\u00f6den in edler Axminter-Qualit\u00e4t harmonieren wundervoll mit dunklem Mahagoniholz und brauen Sitzm\u00f6beln. Perfekt f\u00fcr das private B\u00fcro ist der gro\u00dfe Design- Schreibtisch in Vektor-Form mit Leder-Schreibtischstuhl. 45m\u00b2. King-Size-Bett oder Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.      ", 
+      "rateID": "1967701878", 
+      "rateName": "Deluxe Business Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 509, 
+        "numericInteger": 50900
+      }, 
+      "rateDescription": "In unseren Balkonsuiten genie\u00dfen Sie eine exklusive Aussicht. Auf der gro\u00dfz\u00fcgigen Terrasse servieren wir Ihnen Ihr Fr\u00fchst\u00fcck mit einem au\u00dfergew\u00f6hnlichen Blick auf Berlins bekanntesten Boulevard, den Kurf\u00fcrstendamm. Die gro\u00dfen Panoramafenster schaffen eine herrliche Atmosph\u00e4re und schenken Ihrem Wohn- und Schlafraum viel Licht. Ein gro\u00dfz\u00fcgiges Marmorbad mit Fenstern und teilweise ein separater Ankleideraum geh\u00f6ren ebenfalls zur luxuri\u00f6sen Ausstattung. 60m\u00b2. Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.    ", 
+      "rateID": "-565446886", 
+      "rateName": "Balkon Suite - Beste Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 553, 
+        "numericInteger": 55300
+      }, 
+      "rateDescription": "In unseren Balkonsuiten genie\u00dfen Sie eine exklusive Aussicht. Auf der gro\u00dfz\u00fcgigen Terrasse servieren wir Ihnen Ihr Fr\u00fchst\u00fcck mit einem au\u00dfergew\u00f6hnlichen Blick auf Berlins bekanntesten Boulevard, den Kurf\u00fcrstendamm. Die gro\u00dfen Panoramafenster schaffen eine herrliche Atmosph\u00e4re und schenken Ihrem Wohn- und Schlafraum viel Licht. Ein gro\u00dfz\u00fcgiges Marmorbad mit Fenstern und teilweise ein separater Ankleideraum geh\u00f6ren ebenfalls zur luxuri\u00f6sen Ausstattung. 60m\u00b2. Doppelbett oder zwei separate Betten. Max. Kapazit\u00e4t: 2 Erwachsene und 1 Kind oder 3 Erwachsene.    ", 
+      "rateID": "1939072727", 
+      "rateName": "Balkon Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 639, 
+        "numericInteger": 63900
+      }, 
+      "rateDescription": "Eine herrliche Wahl \u2013 die Kudamm Suite blickt hinaus auf die l\u00e4ngste Flaniermeile Berlins, dem Kurf\u00fcrstendamm \u2013 und verf\u00fcgt \u00fcber einen sehr ger\u00e4umigen Wohnbereich sowie ein gro\u00dfes Schlafzimmer mit traditionellen Elementen im klassischen Grand Hotel Stil. 88m\u00b2. Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene und 2 Kinder oder 3 Erwachsene und 1 Kind oder 4 Erwachsene.    ", 
+      "rateID": "-536817735", 
+      "rateName": "Kudamm Suite - Beste Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 683, 
+        "numericInteger": 68300
+      }, 
+      "rateDescription": "Eine herrliche Wahl \u2013 die Kudamm Suite blickt hinaus auf die l\u00e4ngste Flaniermeile Berlins, dem Kurf\u00fcrstendamm \u2013 und verf\u00fcgt \u00fcber einen sehr ger\u00e4umigen Wohnbereich sowie ein gro\u00dfes Schlafzimmer mit traditionellen Elementen im klassischen Grand Hotel Stil. 88m\u00b2. Doppelbett. Max. Kapazit\u00e4t: 2 Erwachsene und 2 Kinder oder 3 Erwachsene und 1 Kind oder 4 Erwachsene.    ", 
+      "rateID": "1939102518", 
+      "rateName": "Kudamm Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 1359, 
+        "numericInteger": 135900
+      }, 
+      "rateDescription": "Die im 10. Stock liegende Berlin Suite begeistert vor allem mit einer au\u00dfergew\u00f6hnlichen Kombination aus modernem Design und zeitloser Eleganz klassischer Grand Hotels. Edle H\u00f6lzer, hochwertige Stoffe, harmonische Farben und die Liebe zum Detail bestimmen die Ausstattung dieser exklusiven Suite.    ", 
+      "rateID": "-508188584", 
+      "rateName": "Berlin Suite - Beste Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 1403, 
+        "numericInteger": 140300
+      }, 
+      "rateDescription": "Die im 10. Stock liegende Berlin Suite begeistert vor allem mit einer au\u00dfergew\u00f6hnlichen Kombination aus modernem Design und zeitloser Eleganz klassischer Grand Hotels. Edle H\u00f6lzer, hochwertige Stoffe, harmonische Farben und die Liebe zum Detail bestimmen die Ausstattung dieser exklusiven Suite.    ", 
+      "rateID": "1939132309", 
+      "rateName": "Berlin Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 2359, 
+        "numericInteger": 235900
+      }, 
+      "rateDescription": "Die im 11. Stock liegende Pr\u00e4sidentensuite im Art-D\u00e9co-Stil bietet einen sagenhaften Blick \u00fcber Berlin. Besonders anspruchsvolle G\u00e4ste sch\u00e4tzen die absolute Privatsph\u00e4re und Wohnkultur auf hohem Niveau. Das exklusive Mobiliar setzt sich auch modern interpretierten Art-D\u00e9co-Einzelst\u00fccken, handgefertigten Repliken und restaurierten Originalen zusammen. Hochwertige Materialen wie exklusives Makassar-Ebenholz und gl\u00e4nzender Klavierlack kombiniert mit schlichten, edlen Formen, vereinen sich zu einem besonderen Wohndesign. 200m\u00b2. Doppelbett. Max.Kapazit\u00e4t: 2 Erwachsene und 2 Kinder oder 3 Erwachsene.    ", 
+      "rateID": "-479559433", 
+      "rateName": "Pr\u00e4sidentensuite - Beste Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 2403, 
+        "numericInteger": 240300
+      }, 
+      "rateDescription": "Die im 11. Stock liegende Pr\u00e4sidentensuite im Art-D\u00e9co-Stil bietet einen sagenhaften Blick \u00fcber Berlin. Besonders anspruchsvolle G\u00e4ste sch\u00e4tzen die absolute Privatsph\u00e4re und Wohnkultur auf hohem Niveau. Das exklusive Mobiliar setzt sich auch modern interpretierten Art-D\u00e9co-Einzelst\u00fccken, handgefertigten Repliken und restaurierten Originalen zusammen. Hochwertige Materialen wie exklusives Makassar-Ebenholz und gl\u00e4nzender Klavierlack kombiniert mit schlichten, edlen Formen, vereinen sich zu einem besonderen Wohndesign. 200m\u00b2. Doppelbett. Max.Kapazit\u00e4t: 2 Erwachsene und 2 Kinder oder 3 Erwachsene.    ", 
+      "rateID": "1939162100", 
+      "rateName": "Pr\u00e4sidentensuite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-15T00:00:00.000+01:00"
+    },
+        {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 134.1, 
+        "numericInteger": 13410
+      }, 
+      "rateDescription": "Our Classic Rooms are decorated in the traditional Grand Hotel Style. Light and friendly colours create a pleasant atmosphere, right in the heart of Berlin. 20 m\u00b2. Twin or double beds. Max. capacity: 2 adults or 1 adult and 1 child. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "-739857498", 
+      "rateName": "Classic Room - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 149, 
+        "numericInteger": 14900
+      }, 
+      "rateDescription": "Our Classic Rooms are decorated in the traditional Grand Hotel Style. Light and friendly colours create a pleasant atmosphere, right in the heart of Berlin. 20 m\u00b2. Twin or double beds. Max. capacity: 2 adults or 1 adult and 1 child. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "-740789668", 
+      "rateName": "Classic Room - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 193, 
+        "numericInteger": 19300
+      }, 
+      "rateDescription": "Our Classic Rooms are decorated in the traditional Grand Hotel Style. Light and friendly colours create a pleasant atmosphere, right in the heart of Berlin. 20 m\u00b2. Twin or double beds. Max. capacity: 2 adults or 1 adult and 1 child. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1965705881", 
+      "rateName": "Classic Room - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 152.1, 
+        "numericInteger": 15210
+      }, 
+      "rateDescription": "Our Superior Rooms are furnished with extreme elegance and taste. Here you can enjoy the special atmosphere and flair of modern Grand Hotel. A spacious and light marble bathroom completes the impression. 30 m\u00b2. King or twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1812299463", 
+      "rateName": "Superior Room - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 169, 
+        "numericInteger": 16900
+      }, 
+      "rateDescription": "Our Superior Rooms are furnished with extreme elegance and taste. Here you can enjoy the special atmosphere and flair of modern Grand Hotel. A spacious and light marble bathroom completes the impression. 30 m\u00b2. King or twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1811367293", 
+      "rateName": "Superior Room - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 213, 
+        "numericInteger": 21300
+      }, 
+      "rateDescription": "Our Superior Rooms are furnished with extreme elegance and taste. Here you can enjoy the special atmosphere and flair of modern Grand Hotel. A spacious and light marble bathroom completes the impression. 30 m\u00b2. King or twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1937076730", 
+      "rateName": "Superior Room - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 170.1, 
+        "numericInteger": 17010
+      }, 
+      "rateDescription": "Our spacious Deluxe rooms are designed in bright and pleasant warm colours.      ", 
+      "rateID": "-130914929", 
+      "rateName": "Deluxe Room - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 189, 
+        "numericInteger": 18900
+      }, 
+      "rateDescription": "Our spacious Deluxe rooms are designed in bright and pleasant warm colours.      ", 
+      "rateID": "-131847099", 
+      "rateName": "Deluxe Room - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 233, 
+        "numericInteger": 23300
+      }, 
+      "rateDescription": "Our spacious Deluxe rooms are designed in bright and pleasant warm colours.      ", 
+      "rateID": "1908239042", 
+      "rateName": "Deluxe Room - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 188.1, 
+        "numericInteger": 18810
+      }, 
+      "rateDescription": "Our Junior Suites have been lovingly furnished in fine detail in the classic style. The suites feature an elegant seating niche and a large marble bathroom. 45m\u00b2. Twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults.      ", 
+      "rateID": "-1540879080", 
+      "rateName": "Junior Suite - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 209, 
+        "numericInteger": 20900
+      }, 
+      "rateDescription": "Our Junior Suites have been lovingly furnished in fine detail in the classic style. The suites feature an elegant seating niche and a large marble bathroom. 45m\u00b2. Twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults.      ", 
+      "rateID": "-1541811250", 
+      "rateName": "Junior Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 253, 
+        "numericInteger": 25300
+      }, 
+      "rateDescription": "Our Junior Suites have been lovingly furnished in fine detail in the classic style. The suites feature an elegant seating niche and a large marble bathroom. 45m\u00b2. Twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults.      ", 
+      "rateID": "1960403083", 
+      "rateName": "Junior Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 215.1, 
+        "numericInteger": 21510
+      }, 
+      "rateDescription": "Our Superior Suites feature a separate living area and bedroom furnished in luxurious elegance. Here you can fully enjoy your stay in Berlin. Some of the suites can be joined to an adjacent room as well.      ", 
+      "rateID": "-1373861342", 
+      "rateName": "Superior Suite - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 239, 
+        "numericInteger": 23900
+      }, 
+      "rateDescription": "Our Superior Suites feature a separate living area and bedroom furnished in luxurious elegance. Here you can fully enjoy your stay in Berlin. Some of the suites can be joined to an adjacent room as well.      ", 
+      "rateID": "-1374793512", 
+      "rateName": "Superior Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 283, 
+        "numericInteger": 28300
+      }, 
+      "rateDescription": "Our Superior Suites feature a separate living area and bedroom furnished in luxurious elegance. Here you can fully enjoy your stay in Berlin. Some of the suites can be joined to an adjacent room as well.      ", 
+      "rateID": "1996331029", 
+      "rateName": "Superior Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 233.1, 
+        "numericInteger": 23310
+      }, 
+      "rateDescription": "Our spacious and bright coloured Deluxe Business Suites feature a separate living and sleeping room. The exquisite furniture of finest mahagony harmonizes perfectly with distinguished seating furniture coloured in beige. 45m\u00b2. King or double beds. Max. capacity: 2 adults and 1 child or 3 adults. Located in the Hotel Tower.      ", 
+      "rateID": "1178295619", 
+      "rateName": "Deluxe Business Suite - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 259, 
+        "numericInteger": 25900
+      }, 
+      "rateDescription": "Our spacious and bright coloured Deluxe Business Suites feature a separate living and sleeping room. The exquisite furniture of finest mahagony harmonizes perfectly with distinguished seating furniture coloured in beige. 45m\u00b2. King or double beds. Max. capacity: 2 adults and 1 child or 3 adults. Located in the Hotel Tower.      ", 
+      "rateID": "1177363449", 
+      "rateName": "Deluxe Business Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 303, 
+        "numericInteger": 30300
+      }, 
+      "rateDescription": "Our spacious and bright coloured Deluxe Business Suites feature a separate living and sleeping room. The exquisite furniture of finest mahagony harmonizes perfectly with distinguished seating furniture coloured in beige. 45m\u00b2. King or double beds. Max. capacity: 2 adults and 1 child or 3 adults. Located in the Hotel Tower.      ", 
+      "rateID": "1967701878", 
+      "rateName": "Deluxe Business Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 549, 
+        "numericInteger": 54900
+      }, 
+      "rateDescription": "Our Balcony Suites offer an exclusive view of the city. The large windows provide the living area and bedroom with a great deal of natural light. The luxurious design also features a spacious marble bathroom. 60m\u00b2. Double or twin beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Kurf\u00fcrstendamm.    ", 
+      "rateID": "-565446886", 
+      "rateName": "Balcony Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 593, 
+        "numericInteger": 59300
+      }, 
+      "rateDescription": "Our Balcony Suites offer an exclusive view of the city. The large windows provide the living area and bedroom with a great deal of natural light. The luxurious design also features a spacious marble bathroom. 60m\u00b2. Double or twin beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Kurf\u00fcrstendamm.    ", 
+      "rateID": "1939072727", 
+      "rateName": "Balcony Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 639, 
+        "numericInteger": 63900
+      }, 
+      "rateDescription": "The perfect choice: our Kudamm Suite looks out over Berlin\u2019s longest boulevard \u2013 the Kurf\u00fcrstendamm. The suite not only has a wonderfully spacious living room but also a large bedroom that is traditionally furnished in a classic style. 88m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults and 1 child or 4 adults.    ", 
+      "rateID": "-536817735", 
+      "rateName": "Kudamm Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 683, 
+        "numericInteger": 68300
+      }, 
+      "rateDescription": "The perfect choice: our Kudamm Suite looks out over Berlin\u2019s longest boulevard \u2013 the Kurf\u00fcrstendamm. The suite not only has a wonderfully spacious living room but also a large bedroom that is traditionally furnished in a classic style. 88m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults and 1 child or 4 adults.    ", 
+      "rateID": "1939102518", 
+      "rateName": "Kudamm Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 1359, 
+        "numericInteger": 135900
+      }, 
+      "rateDescription": "The Berlin Suite is particularly noted for unusual design that harmonizes contemporary chic with the timeless elegance of a Grand Hotel. Rich woods, luxurious soft furnishings, perfectly attuned colour scheme and wonderful attention to even the smallest of detail characterize this exclusive suite. The perfect setting for that truly special occasion. 110 m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults. View to the Fasanenstrasse.    ", 
+      "rateID": "-508188584", 
+      "rateName": "Berlin Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 1403, 
+        "numericInteger": 140300
+      }, 
+      "rateDescription": "The Berlin Suite is particularly noted for unusual design that harmonizes contemporary chic with the timeless elegance of a Grand Hotel. Rich woods, luxurious soft furnishings, perfectly attuned colour scheme and wonderful attention to even the smallest of detail characterize this exclusive suite. The perfect setting for that truly special occasion. 110 m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults. View to the Fasanenstrasse.    ", 
+      "rateID": "1939132309", 
+      "rateName": "Berlin Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 2359, 
+        "numericInteger": 235900
+      }, 
+      "rateDescription": "Our art deco style Presidential Suite enjoys prime position on the 11th floor affording the most stunning views over Berlin. The absolute privacy and exceptionally high level of d\u00e9cor that cleverly juxtaposes unique modern interpretations of art deco pieces with hand crafted replicas and superbly restored original items will appeal to even the most discerning of guests. Premium quality materials such as macassar ebony and high gloss lacquers harmonize to perfection with the simple elegance of clear lines to create a unique ambiance. 200m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults.    ", 
+      "rateID": "-479559433", 
+      "rateName": "Presidential Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 2403, 
+        "numericInteger": 240300
+      }, 
+      "rateDescription": "Our art deco style Presidential Suite enjoys prime position on the 11th floor affording the most stunning views over Berlin. The absolute privacy and exceptionally high level of d\u00e9cor that cleverly juxtaposes unique modern interpretations of art deco pieces with hand crafted replicas and superbly restored original items will appeal to even the most discerning of guests. Premium quality materials such as macassar ebony and high gloss lacquers harmonize to perfection with the simple elegance of clear lines to create a unique ambiance. 200m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults.    ", 
+      "rateID": "1939162100", 
+      "rateName": "Presidential Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-16T00:00:00.000+01:00"
+    },
+        {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 134.1, 
+        "numericInteger": 13410
+      }, 
+      "rateDescription": "Our Classic Rooms are decorated in the traditional Grand Hotel Style. Light and friendly colours create a pleasant atmosphere, right in the heart of Berlin. 20 m\u00b2. Twin or double beds. Max. capacity: 2 adults or 1 adult and 1 child. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "-739857498", 
+      "rateName": "Classic Room - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 149, 
+        "numericInteger": 14900
+      }, 
+      "rateDescription": "Our Classic Rooms are decorated in the traditional Grand Hotel Style. Light and friendly colours create a pleasant atmosphere, right in the heart of Berlin. 20 m\u00b2. Twin or double beds. Max. capacity: 2 adults or 1 adult and 1 child. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "-740789668", 
+      "rateName": "Classic Room - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 193, 
+        "numericInteger": 19300
+      }, 
+      "rateDescription": "Our Classic Rooms are decorated in the traditional Grand Hotel Style. Light and friendly colours create a pleasant atmosphere, right in the heart of Berlin. 20 m\u00b2. Twin or double beds. Max. capacity: 2 adults or 1 adult and 1 child. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1965705881", 
+      "rateName": "Classic Room - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 152.1, 
+        "numericInteger": 15210
+      }, 
+      "rateDescription": "Our Superior Rooms are furnished with extreme elegance and taste. Here you can enjoy the special atmosphere and flair of modern Grand Hotel. A spacious and light marble bathroom completes the impression. 30 m\u00b2. King or twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1812299463", 
+      "rateName": "Superior Room - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 169, 
+        "numericInteger": 16900
+      }, 
+      "rateDescription": "Our Superior Rooms are furnished with extreme elegance and taste. Here you can enjoy the special atmosphere and flair of modern Grand Hotel. A spacious and light marble bathroom completes the impression. 30 m\u00b2. King or twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1811367293", 
+      "rateName": "Superior Room - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 213, 
+        "numericInteger": 21300
+      }, 
+      "rateDescription": "Our Superior Rooms are furnished with extreme elegance and taste. Here you can enjoy the special atmosphere and flair of modern Grand Hotel. A spacious and light marble bathroom completes the impression. 30 m\u00b2. King or twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1937076730", 
+      "rateName": "Superior Room - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 170.1, 
+        "numericInteger": 17010
+      }, 
+      "rateDescription": "Our spacious Deluxe rooms are designed in bright and pleasant warm colours.      ", 
+      "rateID": "-130914929", 
+      "rateName": "Deluxe Room - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 189, 
+        "numericInteger": 18900
+      }, 
+      "rateDescription": "Our spacious Deluxe rooms are designed in bright and pleasant warm colours.      ", 
+      "rateID": "-131847099", 
+      "rateName": "Deluxe Room - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 233, 
+        "numericInteger": 23300
+      }, 
+      "rateDescription": "Our spacious Deluxe rooms are designed in bright and pleasant warm colours.      ", 
+      "rateID": "1908239042", 
+      "rateName": "Deluxe Room - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 188.1, 
+        "numericInteger": 18810
+      }, 
+      "rateDescription": "Our Junior Suites have been lovingly furnished in fine detail in the classic style. The suites feature an elegant seating niche and a large marble bathroom. 45m\u00b2. Twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults.      ", 
+      "rateID": "-1540879080", 
+      "rateName": "Junior Suite - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 209, 
+        "numericInteger": 20900
+      }, 
+      "rateDescription": "Our Junior Suites have been lovingly furnished in fine detail in the classic style. The suites feature an elegant seating niche and a large marble bathroom. 45m\u00b2. Twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults.      ", 
+      "rateID": "-1541811250", 
+      "rateName": "Junior Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 253, 
+        "numericInteger": 25300
+      }, 
+      "rateDescription": "Our Junior Suites have been lovingly furnished in fine detail in the classic style. The suites feature an elegant seating niche and a large marble bathroom. 45m\u00b2. Twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults.      ", 
+      "rateID": "1960403083", 
+      "rateName": "Junior Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 215.1, 
+        "numericInteger": 21510
+      }, 
+      "rateDescription": "Our Superior Suites feature a separate living area and bedroom furnished in luxurious elegance. Here you can fully enjoy your stay in Berlin. Some of the suites can be joined to an adjacent room as well.      ", 
+      "rateID": "-1373861342", 
+      "rateName": "Superior Suite - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 239, 
+        "numericInteger": 23900
+      }, 
+      "rateDescription": "Our Superior Suites feature a separate living area and bedroom furnished in luxurious elegance. Here you can fully enjoy your stay in Berlin. Some of the suites can be joined to an adjacent room as well.      ", 
+      "rateID": "-1374793512", 
+      "rateName": "Superior Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 283, 
+        "numericInteger": 28300
+      }, 
+      "rateDescription": "Our Superior Suites feature a separate living area and bedroom furnished in luxurious elegance. Here you can fully enjoy your stay in Berlin. Some of the suites can be joined to an adjacent room as well.      ", 
+      "rateID": "1996331029", 
+      "rateName": "Superior Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 233.1, 
+        "numericInteger": 23310
+      }, 
+      "rateDescription": "Our spacious and bright coloured Deluxe Business Suites feature a separate living and sleeping room. The exquisite furniture of finest mahagony harmonizes perfectly with distinguished seating furniture coloured in beige. 45m\u00b2. King or double beds. Max. capacity: 2 adults and 1 child or 3 adults. Located in the Hotel Tower.      ", 
+      "rateID": "1178295619", 
+      "rateName": "Deluxe Business Suite - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 259, 
+        "numericInteger": 25900
+      }, 
+      "rateDescription": "Our spacious and bright coloured Deluxe Business Suites feature a separate living and sleeping room. The exquisite furniture of finest mahagony harmonizes perfectly with distinguished seating furniture coloured in beige. 45m\u00b2. King or double beds. Max. capacity: 2 adults and 1 child or 3 adults. Located in the Hotel Tower.      ", 
+      "rateID": "1177363449", 
+      "rateName": "Deluxe Business Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 303, 
+        "numericInteger": 30300
+      }, 
+      "rateDescription": "Our spacious and bright coloured Deluxe Business Suites feature a separate living and sleeping room. The exquisite furniture of finest mahagony harmonizes perfectly with distinguished seating furniture coloured in beige. 45m\u00b2. King or double beds. Max. capacity: 2 adults and 1 child or 3 adults. Located in the Hotel Tower.      ", 
+      "rateID": "1967701878", 
+      "rateName": "Deluxe Business Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 549, 
+        "numericInteger": 54900
+      }, 
+      "rateDescription": "Our Balcony Suites offer an exclusive view of the city. The large windows provide the living area and bedroom with a great deal of natural light. The luxurious design also features a spacious marble bathroom. 60m\u00b2. Double or twin beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Kurf\u00fcrstendamm.    ", 
+      "rateID": "-565446886", 
+      "rateName": "Balcony Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 593, 
+        "numericInteger": 59300
+      }, 
+      "rateDescription": "Our Balcony Suites offer an exclusive view of the city. The large windows provide the living area and bedroom with a great deal of natural light. The luxurious design also features a spacious marble bathroom. 60m\u00b2. Double or twin beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Kurf\u00fcrstendamm.    ", 
+      "rateID": "1939072727", 
+      "rateName": "Balcony Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 639, 
+        "numericInteger": 63900
+      }, 
+      "rateDescription": "The perfect choice: our Kudamm Suite looks out over Berlin\u2019s longest boulevard \u2013 the Kurf\u00fcrstendamm. The suite not only has a wonderfully spacious living room but also a large bedroom that is traditionally furnished in a classic style. 88m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults and 1 child or 4 adults.    ", 
+      "rateID": "-536817735", 
+      "rateName": "Kudamm Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 683, 
+        "numericInteger": 68300
+      }, 
+      "rateDescription": "The perfect choice: our Kudamm Suite looks out over Berlin\u2019s longest boulevard \u2013 the Kurf\u00fcrstendamm. The suite not only has a wonderfully spacious living room but also a large bedroom that is traditionally furnished in a classic style. 88m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults and 1 child or 4 adults.    ", 
+      "rateID": "1939102518", 
+      "rateName": "Kudamm Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 1359, 
+        "numericInteger": 135900
+      }, 
+      "rateDescription": "The Berlin Suite is particularly noted for unusual design that harmonizes contemporary chic with the timeless elegance of a Grand Hotel. Rich woods, luxurious soft furnishings, perfectly attuned colour scheme and wonderful attention to even the smallest of detail characterize this exclusive suite. The perfect setting for that truly special occasion. 110 m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults. View to the Fasanenstrasse.    ", 
+      "rateID": "-508188584", 
+      "rateName": "Berlin Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 1403, 
+        "numericInteger": 140300
+      }, 
+      "rateDescription": "The Berlin Suite is particularly noted for unusual design that harmonizes contemporary chic with the timeless elegance of a Grand Hotel. Rich woods, luxurious soft furnishings, perfectly attuned colour scheme and wonderful attention to even the smallest of detail characterize this exclusive suite. The perfect setting for that truly special occasion. 110 m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults. View to the Fasanenstrasse.    ", 
+      "rateID": "1939132309", 
+      "rateName": "Berlin Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 2359, 
+        "numericInteger": 235900
+      }, 
+      "rateDescription": "Our art deco style Presidential Suite enjoys prime position on the 11th floor affording the most stunning views over Berlin. The absolute privacy and exceptionally high level of d\u00e9cor that cleverly juxtaposes unique modern interpretations of art deco pieces with hand crafted replicas and superbly restored original items will appeal to even the most discerning of guests. Premium quality materials such as macassar ebony and high gloss lacquers harmonize to perfection with the simple elegance of clear lines to create a unique ambiance. 200m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults.    ", 
+      "rateID": "-479559433", 
+      "rateName": "Presidential Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 2403, 
+        "numericInteger": 240300
+      }, 
+      "rateDescription": "Our art deco style Presidential Suite enjoys prime position on the 11th floor affording the most stunning views over Berlin. The absolute privacy and exceptionally high level of d\u00e9cor that cleverly juxtaposes unique modern interpretations of art deco pieces with hand crafted replicas and superbly restored original items will appeal to even the most discerning of guests. Premium quality materials such as macassar ebony and high gloss lacquers harmonize to perfection with the simple elegance of clear lines to create a unique ambiance. 200m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults.    ", 
+      "rateID": "1939162100", 
+      "rateName": "Presidential Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-17T00:00:00.000+01:00"
+    },
+        {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 134.1, 
+        "numericInteger": 13410
+      }, 
+      "rateDescription": "Our Classic Rooms are decorated in the traditional Grand Hotel Style. Light and friendly colours create a pleasant atmosphere, right in the heart of Berlin. 20 m\u00b2. Twin or double beds. Max. capacity: 2 adults or 1 adult and 1 child. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "-739857498", 
+      "rateName": "Classic Room - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 149, 
+        "numericInteger": 14900
+      }, 
+      "rateDescription": "Our Classic Rooms are decorated in the traditional Grand Hotel Style. Light and friendly colours create a pleasant atmosphere, right in the heart of Berlin. 20 m\u00b2. Twin or double beds. Max. capacity: 2 adults or 1 adult and 1 child. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "-740789668", 
+      "rateName": "Classic Room - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 193, 
+        "numericInteger": 19300
+      }, 
+      "rateDescription": "Our Classic Rooms are decorated in the traditional Grand Hotel Style. Light and friendly colours create a pleasant atmosphere, right in the heart of Berlin. 20 m\u00b2. Twin or double beds. Max. capacity: 2 adults or 1 adult and 1 child. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1965705881", 
+      "rateName": "Classic Room - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 152.1, 
+        "numericInteger": 15210
+      }, 
+      "rateDescription": "Our Superior Rooms are furnished with extreme elegance and taste. Here you can enjoy the special atmosphere and flair of modern Grand Hotel. A spacious and light marble bathroom completes the impression. 30 m\u00b2. King or twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1812299463", 
+      "rateName": "Superior Room - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 169, 
+        "numericInteger": 16900
+      }, 
+      "rateDescription": "Our Superior Rooms are furnished with extreme elegance and taste. Here you can enjoy the special atmosphere and flair of modern Grand Hotel. A spacious and light marble bathroom completes the impression. 30 m\u00b2. King or twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1811367293", 
+      "rateName": "Superior Room - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 213, 
+        "numericInteger": 21300
+      }, 
+      "rateDescription": "Our Superior Rooms are furnished with extreme elegance and taste. Here you can enjoy the special atmosphere and flair of modern Grand Hotel. A spacious and light marble bathroom completes the impression. 30 m\u00b2. King or twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Fasanenstrasse, the Kurf\u00fcrstendamm or the inner courtyard.      ", 
+      "rateID": "1937076730", 
+      "rateName": "Superior Room - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 170.1, 
+        "numericInteger": 17010
+      }, 
+      "rateDescription": "Our spacious Deluxe rooms are designed in bright and pleasant warm colours.      ", 
+      "rateID": "-130914929", 
+      "rateName": "Deluxe Room - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 189, 
+        "numericInteger": 18900
+      }, 
+      "rateDescription": "Our spacious Deluxe rooms are designed in bright and pleasant warm colours.      ", 
+      "rateID": "-131847099", 
+      "rateName": "Deluxe Room - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 233, 
+        "numericInteger": 23300
+      }, 
+      "rateDescription": "Our spacious Deluxe rooms are designed in bright and pleasant warm colours.      ", 
+      "rateID": "1908239042", 
+      "rateName": "Deluxe Room - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 188.1, 
+        "numericInteger": 18810
+      }, 
+      "rateDescription": "Our Junior Suites have been lovingly furnished in fine detail in the classic style. The suites feature an elegant seating niche and a large marble bathroom. 45m\u00b2. Twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults.      ", 
+      "rateID": "-1540879080", 
+      "rateName": "Junior Suite - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 209, 
+        "numericInteger": 20900
+      }, 
+      "rateDescription": "Our Junior Suites have been lovingly furnished in fine detail in the classic style. The suites feature an elegant seating niche and a large marble bathroom. 45m\u00b2. Twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults.      ", 
+      "rateID": "-1541811250", 
+      "rateName": "Junior Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 253, 
+        "numericInteger": 25300
+      }, 
+      "rateDescription": "Our Junior Suites have been lovingly furnished in fine detail in the classic style. The suites feature an elegant seating niche and a large marble bathroom. 45m\u00b2. Twin or double beds. Max. capacity: 2 adults and 1 child or 3 adults.      ", 
+      "rateID": "1960403083", 
+      "rateName": "Junior Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 215.1, 
+        "numericInteger": 21510
+      }, 
+      "rateDescription": "Our Superior Suites feature a separate living area and bedroom furnished in luxurious elegance. Here you can fully enjoy your stay in Berlin. Some of the suites can be joined to an adjacent room as well.      ", 
+      "rateID": "-1373861342", 
+      "rateName": "Superior Suite - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 239, 
+        "numericInteger": 23900
+      }, 
+      "rateDescription": "Our Superior Suites feature a separate living area and bedroom furnished in luxurious elegance. Here you can fully enjoy your stay in Berlin. Some of the suites can be joined to an adjacent room as well.      ", 
+      "rateID": "-1374793512", 
+      "rateName": "Superior Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 283, 
+        "numericInteger": 28300
+      }, 
+      "rateDescription": "Our Superior Suites feature a separate living area and bedroom furnished in luxurious elegance. Here you can fully enjoy your stay in Berlin. Some of the suites can be joined to an adjacent room as well.      ", 
+      "rateID": "1996331029", 
+      "rateName": "Superior Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 233.1, 
+        "numericInteger": 23310
+      }, 
+      "rateDescription": "Our spacious and bright coloured Deluxe Business Suites feature a separate living and sleeping room. The exquisite furniture of finest mahagony harmonizes perfectly with distinguished seating furniture coloured in beige. 45m\u00b2. King or double beds. Max. capacity: 2 adults and 1 child or 3 adults. Located in the Hotel Tower.      ", 
+      "rateID": "1178295619", 
+      "rateName": "Deluxe Business Suite - Early Booker Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 259, 
+        "numericInteger": 25900
+      }, 
+      "rateDescription": "Our spacious and bright coloured Deluxe Business Suites feature a separate living and sleeping room. The exquisite furniture of finest mahagony harmonizes perfectly with distinguished seating furniture coloured in beige. 45m\u00b2. King or double beds. Max. capacity: 2 adults and 1 child or 3 adults. Located in the Hotel Tower.      ", 
+      "rateID": "1177363449", 
+      "rateName": "Deluxe Business Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 303, 
+        "numericInteger": 30300
+      }, 
+      "rateDescription": "Our spacious and bright coloured Deluxe Business Suites feature a separate living and sleeping room. The exquisite furniture of finest mahagony harmonizes perfectly with distinguished seating furniture coloured in beige. 45m\u00b2. King or double beds. Max. capacity: 2 adults and 1 child or 3 adults. Located in the Hotel Tower.      ", 
+      "rateID": "1967701878", 
+      "rateName": "Deluxe Business Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 549, 
+        "numericInteger": 54900
+      }, 
+      "rateDescription": "Our Balcony Suites offer an exclusive view of the city. The large windows provide the living area and bedroom with a great deal of natural light. The luxurious design also features a spacious marble bathroom. 60m\u00b2. Double or twin beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Kurf\u00fcrstendamm.    ", 
+      "rateID": "-565446886", 
+      "rateName": "Balcony Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 593, 
+        "numericInteger": 59300
+      }, 
+      "rateDescription": "Our Balcony Suites offer an exclusive view of the city. The large windows provide the living area and bedroom with a great deal of natural light. The luxurious design also features a spacious marble bathroom. 60m\u00b2. Double or twin beds. Max. capacity: 2 adults and 1 child or 3 adults. View to the Kurf\u00fcrstendamm.    ", 
+      "rateID": "1939072727", 
+      "rateName": "Balcony Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 639, 
+        "numericInteger": 63900
+      }, 
+      "rateDescription": "The perfect choice: our Kudamm Suite looks out over Berlin\u2019s longest boulevard \u2013 the Kurf\u00fcrstendamm. The suite not only has a wonderfully spacious living room but also a large bedroom that is traditionally furnished in a classic style. 88m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults and 1 child or 4 adults.    ", 
+      "rateID": "-536817735", 
+      "rateName": "Kudamm Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 683, 
+        "numericInteger": 68300
+      }, 
+      "rateDescription": "The perfect choice: our Kudamm Suite looks out over Berlin\u2019s longest boulevard \u2013 the Kurf\u00fcrstendamm. The suite not only has a wonderfully spacious living room but also a large bedroom that is traditionally furnished in a classic style. 88m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults and 1 child or 4 adults.    ", 
+      "rateID": "1939102518", 
+      "rateName": "Kudamm Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 1359, 
+        "numericInteger": 135900
+      }, 
+      "rateDescription": "The Berlin Suite is particularly noted for unusual design that harmonizes contemporary chic with the timeless elegance of a Grand Hotel. Rich woods, luxurious soft furnishings, perfectly attuned colour scheme and wonderful attention to even the smallest of detail characterize this exclusive suite. The perfect setting for that truly special occasion. 110 m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults. View to the Fasanenstrasse.    ", 
+      "rateID": "-508188584", 
+      "rateName": "Berlin Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 1403, 
+        "numericInteger": 140300
+      }, 
+      "rateDescription": "The Berlin Suite is particularly noted for unusual design that harmonizes contemporary chic with the timeless elegance of a Grand Hotel. Rich woods, luxurious soft furnishings, perfectly attuned colour scheme and wonderful attention to even the smallest of detail characterize this exclusive suite. The perfect setting for that truly special occasion. 110 m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults. View to the Fasanenstrasse.    ", 
+      "rateID": "1939132309", 
+      "rateName": "Berlin Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 2359, 
+        "numericInteger": 235900
+      }, 
+      "rateDescription": "Our art deco style Presidential Suite enjoys prime position on the 11th floor affording the most stunning views over Berlin. The absolute privacy and exceptionally high level of d\u00e9cor that cleverly juxtaposes unique modern interpretations of art deco pieces with hand crafted replicas and superbly restored original items will appeal to even the most discerning of guests. Premium quality materials such as macassar ebony and high gloss lacquers harmonize to perfection with the simple elegance of clear lines to create a unique ambiance. 200m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults.    ", 
+      "rateID": "-479559433", 
+      "rateName": "Presidential Suite - Best Flexible Rate", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": false
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }, 
+    {
+      "adults": 2, 
+      "los": 1, 
+      "price": {
+        "currency": "EUR", 
+        "numericFloat": 2403, 
+        "numericInteger": 240300
+      }, 
+      "rateDescription": "Our art deco style Presidential Suite enjoys prime position on the 11th floor affording the most stunning views over Berlin. The absolute privacy and exceptionally high level of d\u00e9cor that cleverly juxtaposes unique modern interpretations of art deco pieces with hand crafted replicas and superbly restored original items will appeal to even the most discerning of guests. Premium quality materials such as macassar ebony and high gloss lacquers harmonize to perfection with the simple elegance of clear lines to create a unique ambiance. 200m\u00b2. Double bed. Max. capacity: 2 adults and 2 children or 3 adults.    ", 
+      "rateID": "1939162100", 
+      "rateName": "Presidential Suite - Bed & Breakfast", 
+      "rateTags": [
+        {
+          "name": "breakfast", 
+          "shape": true
+        }
+      ], 
+      "targetDay": "2016-03-18T00:00:00.000+01:00"
+    }
+  ]
+}
